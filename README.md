@@ -38,3 +38,6 @@ This project started out as a fork of [jobs.perl.org-jobs-counter](https://githu
 
 Thank you, [Jeff Thalhammer](http://search.cpan.org/~thaljef/), for additional motivation to make this happen.
 
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/W18RY3A0HT1C74Z)
